@@ -1,0 +1,8 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+* MessageQueue
+** RabbitMQ
+** Kafka
+
+@endmindmap
